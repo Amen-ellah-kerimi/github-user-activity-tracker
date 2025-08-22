@@ -29,7 +29,7 @@ wget https://github.com/nlohmann/json/releases/latest/download/json.hpp -O json.
 ```
 Place json.hpp in your project directory or include path.
 
-##🚀 Build & Run
+## 🚀 Build & Run
 
 Compile:
 ```bash
@@ -41,7 +41,7 @@ Run:
 ./github_user_activity
 ```
 
-###Example:
+### Example:
 
 Enter GitHub username: torvalds
 
@@ -49,7 +49,7 @@ Recent Events for torvalds:
 - PushEvent on torvalds/linux
 - IssuesEvent on torvalds/subsurface
 
-##⚠️ Notes
+## ⚠️ Notes
 
 Only public events are accessible via the API.
 
